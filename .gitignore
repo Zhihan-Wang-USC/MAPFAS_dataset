@@ -55,5 +55,4 @@ label_gen/scripts/local/lns_run_log_20220314_091935.log
 label_gen/scripts/local/result.txt
 label_gen/scripts/local/labelgen.csv
 
-label_gen/third_party
 sync2windows.sh
