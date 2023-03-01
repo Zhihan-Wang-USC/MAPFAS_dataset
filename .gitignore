@@ -1,0 +1,59 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+output/*
+output_tensors/*
+.idea/*
+build/*
+cmake-build-debug
+.idea
+
+label_gen/PIBT2
+label_gen/MAPF_LNS2
+label_gen/tmp
+label_gen/datasets
+label_gen/forCluster
+
+label_gen/scripts/local
+label_gen/scripts/local/*
+.ipynb_checkpoints/
+label_gen/scripts/local/test.csv-LNS.csv
+label_gen/scripts/local/test.csv-initLNS.csv
+label_gen/scripts/local/scen2num_agent_df_0326.csv
+label_gen/scripts/local/scen2num_agent_df_0512.csv
+label_gen/scripts/local/lns_run_log_20220314_091935.log
+label_gen/scripts/local/result.txt
+label_gen/scripts/local/labelgen.csv
+
+label_gen/third_party
+sync2windows.sh

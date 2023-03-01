@@ -1,0 +1,6 @@
+[submodule "label_gen/third_party/MAPF_LNS2"]
+	path = label_gen/third_party/MAPF_LNS2
+	url = https://github.com/Jiaoyang-Li/MAPF-LNS2.git
+[submodule "label_gen/third_party/PIBT2"]
+	path = label_gen/third_party/PIBT2
+	url = https://github.com/Kei18/pibt2.git
