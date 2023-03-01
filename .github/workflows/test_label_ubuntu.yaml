@@ -1,4 +1,4 @@
-name: test_ubuntu
+name: test_label_ubuntu
 
 on:
   push:
